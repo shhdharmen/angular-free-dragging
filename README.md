@@ -1,27 +1,16 @@
 # AngularFreeDragging
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+Create a directive in Angular that will allow us to freely drag any element, without using any 3rd party libraries.
 
-## Development server
+## Reading
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This code is created for my article on indepth.dev, you can read it at: [Create a directive for free dragging in Angular](TBA).
 
-## Code scaffolding
+## Development
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone https://github.com/shhdharmen/angular-free-dragging.git
+cd angular-free-dragging
+npm i
+npm start
+```
